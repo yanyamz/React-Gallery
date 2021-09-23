@@ -1,0 +1,21 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html {
+	font-size: 62.5%;
+}
+
+.container {
+	max-width: 1440px;
+	margin: auto 0;
+	padding: 0 3rem;
+}
+
+.title {
+	text-align: center;
+	font-size: 3rem;
+	padding: 2rem 0;
+}
